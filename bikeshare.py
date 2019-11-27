@@ -31,7 +31,7 @@ def get_filters():
             continue
         break
 
-    # get the filter
+    # Get the filter
     print('\nData can be filtered by:\n- Month\n- Day\n- None')
 
     while True:
