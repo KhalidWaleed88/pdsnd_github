@@ -6,7 +6,7 @@
 psnd_github
 
 ### Description
-Describe what your project is about and what it does
+This project is about getting the input value from user and print it here
 
 ### Files used
 csv data files + python 
