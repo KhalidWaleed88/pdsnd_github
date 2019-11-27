@@ -20,6 +20,7 @@ def get_filters():
     print('Hello! Let\'s explore some US bikeshare data!')
     # TO DO: get user input for city (chicago, new york city, washington).
     # HINT: Use a while loop to handle invalid inputs
+    # Input must be valid
     print('\nData is available for:\n- Chicago\n- New York City\n- Washington')
 
     while True:
@@ -225,7 +226,7 @@ def user_stats(df):
 def display_raw(df):
     """Displays raw data 5 lines at a time"""
 
-    # sett the index to 0
+    # set the index to 0
     index = 0
 
     # print the 1st 5 lines of data
